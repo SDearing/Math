@@ -21,7 +21,8 @@ Prime Factors of 50: 2x5x5
 25| (5)x(5)
 Prime Factors of 75: 3x5x5
 
-We then multiply each factor using two 5s as it occurs twice.
+We then multiply each factor using two 5s as it occurs twice./d
+
 2x3x5x5= 125
 
 This means the LCM of 50 and 75 is 125
