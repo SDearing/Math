@@ -8,3 +8,5 @@ A final example would be the probability of having 7 after rolling a 2. As one o
 
 ## Probability of a Discrete Random Variable
 ### What is the probability of a random integer being divisible by 5
+The answer seems pretty simple, every fifth number is divisible by 5 so the probability must be 1/5. This answer is correct but when working with infinite probabilities it needs to be clarified with an equation:
+![equation](https://github.com/SDearing/Math/blob/master/Repo%20Assets/InfiniteEquation.PNG)
