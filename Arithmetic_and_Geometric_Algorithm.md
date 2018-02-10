@@ -5,7 +5,7 @@ Arithmetic progression is a sequence that goes to each term by adding (or subtra
 ### Part 1
 ![FlowChart_pt1](https://github.com/SDearing/Math/blob/master/Repo%20Assets/Part%201%20sequence%20algorithm.PNG)
 </d>
-This first part of the flowchart is just used to gather the data about the sequence it is about compute, by recieving a user input of the terms of the sequence and whether that sequence is arithmetic or geometric, the algorithm needs to know this as the calculations for working out the next term is different for each type of sequence.
+This first part of the flowchart is just used to gather the data about the sequence it is about compute, by recieving a user input of the terms of the sequence and whether that sequence is arithmetic or geometric, the algorithm needs to know this as the calculations for working out the next term are different for each type of sequence.
 ![flowChart_pt2](https://github.com/SDearing/Math/blob/master/Repo%20Assets/Part%202%20sequence%20algorithm.PNG)</d>
 This is the main bulk of the algorithm, first the algorithm checks if the user inputted arithmetic, if they did then the algorithm checks to see whether the 1st term is smaller than the second, this is so the algorithm knows whether the sequence is increasing or decreasing, then the algorithm calculates the common difference or 'd'. To do this, when the sequence is increasing, the first term is subtracted from the second term giving the common difference, that is then added to the last term to find the next term in the sequence. However when the sequence is decreasing the 2nd term is taken away from the first giving the common difference,which is then subtracted from the last term to give the next term in the sequence.
 
