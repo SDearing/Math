@@ -7,3 +7,4 @@ Another example could be the probability of rolling at least one 2 with two die.
 A final example would be the probability of having 7 after rolling a 2. As one of the conditions has already been set are total probability will not be 36 but instead 6 as we are only working with one dice. We then need to calculate how to get a 7 after rolling a 2 which would only be by rolling a 5, this means that the probability having a 7 after rolling a 2 would be 1/6.
 
 ## Probability of a Discrete Random Variable
+### What is the probability of a random integer being divisible by 5
