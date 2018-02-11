@@ -1,4 +1,4 @@
-# Probability
+# Probability 
 ## Conditional Probability
 Conditional probability is the probability of an event occuring given that another event occured before. For example the probability of rolling a 8 with 2 die. To calculate this we must first work out the total number of probabilities that could occur, we know that with 1 die there are 6 different combinations, but with 2 die there are 6x6 combinations of numbers. This means that there are 36 combinations with 2 die, then we need to work out how many times the combination of numbers from the die could be 8, to do this you can note out the different combinations from a die that make 8: (2,6) (3,5) (4,4) (5,3) (2,6). As you can see we have 5 combinations so the proabilty of 2 die rolling an 8 is 5/36. 
 
