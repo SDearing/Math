@@ -3,7 +3,7 @@ A vector is a representation of a line, a vector has two independent properties:
 
 ![vecto](https://github.com/SDearing/Math/blob/master/Repo%20Assets/VectorExample.PNG)
 ## Algorithm to determine shape parameters using vector methods
-``
+```
 <html>
 <body>
 
@@ -104,4 +104,4 @@ function shape(){
 }
 
 </script>
-``
+```
