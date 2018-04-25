@@ -6,10 +6,18 @@ In general, an average rate of change function is a process that calculates the 
 
 Examples:
 F(x)= x^2
+
 Rate of change from 1 to 3
+
 (3^2 - 1^2)/ (3-1) = (9-1)/(3-2) = 8/2 = 4
+
 4 in binary equals 0000 0100
+
+
 F(x) 2x + 3
+
 Rate of change from 10 to 100
+
 (2 * 100 + 3) - (2 * 10 + 3) / (100 - 10) = 180 / 90 = 2
+
 2 in binary equals 0000 0010
